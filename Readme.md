@@ -6,7 +6,8 @@ React.JS.
 
 It was initially introduced at a talk for an outstanding DDDBE
 community (Domain-Driven Design Belgium). You can
-[watch the whole video](http://youtu.be/QSiTtFWuhZE).
+[watch the whole video](http://youtu.be/QSiTtFWuhZE) and
+[read more about the talk](http://abdullin.com/talks/2015-01-06-dddbe-facebook-flux-reactjs/).
 
 ## Differences from Facebook Flux
 
