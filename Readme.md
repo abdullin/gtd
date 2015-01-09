@@ -39,5 +39,5 @@ then open your browser at `http://localhost:3000`
 
 ## Updates and News
 
-You can follow my [blob on Software Design][http://abdullin.com] for
+You can follow my [blog on Software Design](http://abdullin.com) for
 any materials and updates on this project.
