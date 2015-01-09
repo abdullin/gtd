@@ -35,11 +35,15 @@ Other differences that will show up in the code:
 To run the sample:
 
 1. Install _Node.JS_.
-2. Browse to `web` folder and execute:
+2. Install _webpack_ globally (it bundles scripts for the client):
+
+        > npm install webpack -g
+
+3. Browse to `web` folder and execute:
 
         > ./run
 
-3. Open your browser at `http://localhost:3000`
+4. Open your browser at `http://localhost:3000`
 
 ## Updates and News
 
