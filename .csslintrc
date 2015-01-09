@@ -1,0 +1,2 @@
+--exclude-list=web/node_modules/
+--quiet
