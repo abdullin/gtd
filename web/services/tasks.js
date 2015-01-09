@@ -1,7 +1,6 @@
 "use strict";
 
 var tasks = {};
-var client = require("../lib/client");
 var debug = require("debug")("tasks/service");
 
 function asArray() {
@@ -26,12 +25,6 @@ module.exports = {
 		};
 		tasks[item.id] = item;
 
-		client.post({
-			uri: "/inbox",
-			form: item
-		}, function(error, json) {
-				debug(error, json);
-			});
 
 
 		callback(undefined, item);
