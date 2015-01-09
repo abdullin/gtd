@@ -32,11 +32,14 @@ Other differences that will show up in the code:
 
 ## Running the Sample
 
-To run the sample, enter the web folder and execute
+To run the sample:
 
-    > ./watch-and-run
+1. Install _Node.JS_.
+2. Browse to `web` folder and execute:
 
-then open your browser at `http://localhost:3000`
+        > ./run
+
+3. Open your browser at `http://localhost:3000`
 
 ## Updates and News
 
