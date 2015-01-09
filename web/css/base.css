@@ -1,0 +1,82 @@
+/* TaskItem */
+
+.task-item{
+    height:55px;
+    border-bottom:1px solid silver;
+}
+.task-item--completed{
+    text-decoration: line-through;
+}
+
+.task-item__name{
+    margin-right: 40px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color:#6B6B6B;
+    font-size:18px;
+
+}
+.task-item__check{
+    float: right;
+    width:40px;
+}
+
+/* TaskCheck */
+
+.task-check{
+    fill:#DDD;
+}
+.task-check--flagged{
+    fill:#FF9800;
+}
+
+/* TaskStar */
+.task-star{
+    fill: #DDD;
+}
+
+.task-star--flagged{
+    fill:#FF9800;
+}
+
+
+/* TaskView */
+
+.task-view{
+    padding-top: 20px;
+}
+
+.task-view__name{
+    margin-right: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color:#6B6B6B;
+    font-size:20px;
+    font-weight: bold;
+}
+.task-view__check{
+    float: right;
+    width:50px;
+}
+
+.task-view__star{
+    float: right;
+    width50px;
+}
+
+
+
+.side-nav {
+    height:25px;
+    border-bottom:1px solid silver;
+}
+.side-nav__svg{
+    width:24px;
+    height:24px;
+    vertical-align:middle;
+}
+.side-nav__title{
+    vertical-align:middle;
+}
