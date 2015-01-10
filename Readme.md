@@ -30,6 +30,10 @@ Other differences that will show up in the code:
 2. `action creators` - `event creators`
 
 
+## Design
+
+![Design](https://raw.githubusercontent.com/abdullin/gtd/master/misc/flux-in-cqrs-terms.jpg)
+
 ## Running the Sample
 
 To run the sample:
@@ -41,7 +45,7 @@ To run the sample:
 
 3. Browse to `web` folder and execute:
 
-        > ./run
+        > ./run.sh
 
 4. Open your browser at `http://localhost:3000`
 
