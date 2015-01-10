@@ -43,7 +43,26 @@ To run the sample:
 
         > ./run.sh
 
-4. Open your browser at `http://localhost:3000`
+4. Open your browser at `http://localhost:3000`. Then, type in the
+   textbox and hit Enter to add your first TODO item.
+
+![Screenshot](https://raw.githubusercontent.com/abdullin/gtd/master/misc/screenshot.png)
+
+## Features
+
+This sample has only a couple of features at this point:
+
+1. In-memory server-side storage (in node.js process).
+2. Compose new _tasks_ to _Inbox View_ (type in the text box and hit `Enter`).
+3. Complete tasks by checking them.
+4. Edit tasks by clicking on the task name (currently allows only to
+   manage completion and starring).
+5. Mark _tasks_ as important by _starring_ them in _edit view_.
+6. _Agenda View_ shows _incomplete tasks_. _Starred tasks_ come first.
+7. _Starred View_ shows _starred tasks_.
+
+Projects and Contexts do nothing at this point.
+
 
 ## Updates and News
 
