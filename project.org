@@ -1,0 +1,25 @@
+#+STARTUP: hidestars
+#+STARTUP: odd
+
+
+* Features
+*** Refactoring
+***** TODO Make TaskCheck/TaskStar dependencies explicit
+***** TODO Add Size property to TaskCheck/TaskStar
+***** Make TaskCheck/TaskStar read-only variants (needed even?)
+*** Basics
+***** TODO Add task name editing
+***** TODO Delete tasks
+***** TODO Recent Changes
+*** Contexts
+***** TODO Create Contexts
+***** TODO Assign Tasks to Contexts
+***** TODO Remove Contexts from Tasks
+***** TODO Delete Contexts
+***** TODO Rearrange and nest Contexts
+*** Projects
+***** TODO Convert Tasks to Projects
+***** TODO Change Project Types
+***** TODO View Projects
+***** TODO Assigning Task To Project removes it from Inbox
+
